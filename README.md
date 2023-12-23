@@ -1,6 +1,6 @@
-## Mihdan: Disable Aggressive Updates
+## KAGG: Disable Aggressive Updates
 
-![Mihdan: Disable Aggressive Updates](screenshot.jpg)
+![KAGG: Disable Aggressive Updates](screenshot.jpg)
 
 WordPress плагин для ускорения админки WordPress путём отключения агрессивных проверок обновлений
 
