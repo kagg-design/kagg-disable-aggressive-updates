@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: KAGG: Disable Aggressive Updates
+ * Plugin Name: KAGG Disable Aggressive Updates
  * Description: WordPress плагин для ускорения админки WordPress путём отключения агрессивных проверок обновлений
  * Version: 1.1
  * Plugin URI: https://www.kobzarev.com
